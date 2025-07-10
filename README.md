@@ -21,8 +21,8 @@ A modern, interactive, and visually appealing web-based assistant for Kubernetes
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kubectl-ai-assistant.git
-cd kubectl-ai-assistant
+git clone https://github.com/surajpudale/Kubectl_AI_Assistant.git
+cd Kubectl_AI_Assistant
 ```
 
 ### 2. Install Dependencies
